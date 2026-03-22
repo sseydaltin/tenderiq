@@ -197,7 +197,7 @@ Emlak Konut Ideathon 2026 — Ankara
 
 ## 📎 Demo
 
-🔗 [Canlı Demo](https://kullaniciadın.github.io/tenderiq)
+🔗 [Canlı Demo](https://sseydaltin.github.io/tenderiq/)
 
 > Demo, gerçek veriler olmaksızın kural tabanlı bir yaklaşımla çalışmaktadır.
 > Gerçek model, Emlak Konut'un tarihsel ihale verileriyle eğitilecektir.
