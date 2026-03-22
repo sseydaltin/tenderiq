@@ -1,6 +1,6 @@
 # ⚡ TenderIQ — İhale Optimizasyon Motoru
 
-> **Emlak Konut Ideathon 2025** — Akıllı Değerleme ve Yatırım Analitiği
+> **Emlak Konut Ideathon 2026** — Akıllı Değerleme ve Yatırım Analitiği
 
 ---
 
