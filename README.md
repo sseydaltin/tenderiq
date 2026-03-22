@@ -188,8 +188,10 @@ Büyük altyapı yatırımı gerekmiyor.
 ---
 
 ## 👥 Takım
-
-Emlak Konut Ideathon 2025 — Ankara Final Programı
+Şeyda Altın 
+Layan Bassout 
+Alaa Madı
+Emlak Konut Ideathon 2026 — Ankara 
 
 ---
 
